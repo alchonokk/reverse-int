@@ -6,5 +6,5 @@ module.exports = function reverse (n) {
         n=Math.floor(n/10)
         
     }
-
+return reversed
 }
